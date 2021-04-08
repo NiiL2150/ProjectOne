@@ -78,6 +78,7 @@ int main() {
 	int ch = 0;
 	do
 	{
+		cout << "Avtosalon programm" << endl;
 		cout << "1 - Add\n2 - Delete\n3 - Print\n4 - Sort\n5 - Find\n0 - Quit" << endl;
 		cin >> ch;
 		system("cls");
